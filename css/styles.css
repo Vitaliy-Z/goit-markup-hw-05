@@ -245,7 +245,7 @@ body {
   color: var(--title-text-color);
   font-weight: bold;
   font-size: 14px;
-  line-height: 1.2;
+  line-height: 1.15;
   letter-spacing: 0.03em;
 
   text-transform: uppercase;
@@ -354,13 +354,12 @@ body {
 .activity .imeg {
   display: block;
   width: 370px;
+  height: 294px;
   border-radius: 4px;
 }
 
 .activity .item {
   position: relative;
-  width: 370px;
-  height: 294px;
 }
 
 .activity .title-text {
